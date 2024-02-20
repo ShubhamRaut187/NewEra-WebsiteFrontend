@@ -1,11 +1,11 @@
 import React from 'react';
-import './Page Styles/Home.css'
+
 function Home(props) {
     return (
         <div>
-            
+            <h1>Home</h1>
         </div>
     );
-}import './Page Styles/Home.css'
+}
 
 export default Home;
